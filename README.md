@@ -15,16 +15,16 @@
 ## Analysis & Calculation  
 
 ---
-### Average Price of 12.5kg Cooking Gas in the Month of July 2024  
+## Average Price of 12.5kg Cooking Gas in the Month of July 2024  
 ![image](Gas_Slide3.jpg)
 ---
-### States with the Highest Average Price of 12.5kg Cooking Gas  
+## States with the Highest Average Price of 12.5kg Cooking Gas  
 ![image](Gas_Slide4.jpg)
 ---
-### States with the Lowest Average Price of 12.5kg Cooking Gas  
+## States with the Lowest Average Price of 12.5kg Cooking Gas  
 ![image](Gas_Slide5.jpg)
 ---
-### Percentage Difference in Prices of 12.5kg Cooking Gas Across States  
+## Percentage Difference in Prices of 12.5kg Cooking Gas Across States  
 ![image](Gas_Slide6.jpg)
 ---
 ## Average price of Cooking Gas- 12.5kg across the six (6) geo-political Zones
