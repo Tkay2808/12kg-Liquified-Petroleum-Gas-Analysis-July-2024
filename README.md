@@ -1,2 +1,32 @@
-# 12kg-Liquified-Petroleum-Gas-Analysis-July-2024
-This is an Excel and PowerPoint analysis on the price of refilling  a 12kg Liquified Petroleum Gas (Cooking Gas ) in Nigeria as at 2024.
+# 12kg Liquefied Petroleum Gas (LPG) Price Analysis – July 2024  
+---
+This project presents an Excel and PowerPoint-based analysis of the average cost of refilling a 12kg Liquefied Petroleum Gas (cooking gas) cylinder in Nigeria as of July 2024.  
+---
+## Introduction  
+
+---
+## Aim & Objective  
+
+---
+## Raw Dataset  
+
+---
+## Analysis & Calculation  
+
+---
+### Average Price of 12kg Cooking Gas in the Month of July 2024  
+
+---
+### States with the Highest Average Price of 12kg Cooking Gas  
+
+---
+### States with the Lowest Average Price of 12kg Cooking Gas  
+
+---
+### Percentage Difference in Prices of 12.5kg Cooking Gas Across States  
+
+---
+## Summary  
+
+---
+## About Me  
