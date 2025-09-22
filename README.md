@@ -1,4 +1,4 @@
-# 12.5kg Liquefied Petroleum Gas (LPG) Price Analysis – July 2024.  
+# 12.5kg LIQUEFIED PETROLEUM GAS (LPG) ANALYSIS - JULY 2024.  
 ---
 ### This project presents a PowerPoint-based analysis of the average cost of refilling a 12.5kg Liquefied Petroleum Gas (cooking gas) cylinder in Nigeria as of July 2024.  
 ![image](Gas_Slide1.jpg)
