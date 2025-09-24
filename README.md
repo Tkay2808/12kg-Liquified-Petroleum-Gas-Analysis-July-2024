@@ -66,4 +66,8 @@ Meanwhile, the **North-Central** zone reported the lowest average price at **₦
 ## Salutation 
 ![image](Gas_Slide8.jpg)
 ---
-## About Me  
+## About me
+- I transform complex data into clear, actionable insights.
+Using analytics, machine learning, and visualization, I help you understand trends, improve efficiency, and plan for the future.
+
+Connect with me @https://www.linkedin.com/in/adetokunbo-olasupo-70aa042a1
